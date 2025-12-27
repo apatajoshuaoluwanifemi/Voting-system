@@ -1,4 +1,9 @@
 # Voting-system
+
+# Name : APATA JOSHUA OLUWANIFEMI
+# Matric No : 24/14998
+# Department : Computer Science
+
 # 1. Requirement Analysis
 This system allows users to vote for candidates and view results.
 
